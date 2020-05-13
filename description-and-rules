@@ -1,0 +1,42 @@
+Datorium Dev.contest
+Making a custom Discord Bot
+
+timeline
+[1] submission - June 16, 2020, 18:00 (GMT+3)
+[2] online pitching of selected bots - June 18, 2020, 18:00 (GMT+3)
+[3] winners announcement – June 21, 2020, 23:00 (GTM+3)
+
+purpose
+[1] engage students applied coding and tech diversity
+[2] make student portfolio richer
+[3] develop useful bot for the server and beyond
+
+rules
+[1] solo developer (only one person per submitted project allowed)
+[2] project code must be submitted in GitHub (private or public)
+[3] you can use either of two languages: JavaScript or Python
+
+required features
+[0] each contester should think how to design and make features functional, from usability, user interface and functional points of view
+[1] can upvote/downvote a message from a user (e.g. user replies to a support request in any channel, and the one who is being supported can upvote the message).
+[2] sensei/owner can upvote the user for their achievements (active participation during the sessions, quality support)
+[3] the must should show each users upvote/downvote stats by a command (e.g. !achievement @mention_a_user). Also, one can get a leaderboard of all supporters in the server or a particular channel (e.g. !leaderboard server, !leaderboard #channel).
+[4] the bot awards automatic roles for certain amount of upvotes, say promotes a user with 32, 64, 128, 256, 512, 1024 upvotes and demotes a user with say -2, -8, -16 et downvote status 
+extra features
+[1] bot can register you for an event, contest or course by having predefined private conversation, like “what is your name?”, “what is you surname”, “what is your interest?” e.t.c.
+[2] data is kept in a database and can be accessible through integration from other platforms or within Discord.
+
+criteria
+[1] code readability
+[2] bugs and their significance
+[3] bot must have at least required above features
+[4] extra features, are advantage and provide more points
+[5] developers can add own features if they make sense, and that will provide bonus points
+
+prize
+[1] symbolic 100 EUR worth gift card for the first place
+[2] first, second and third places get Datorium support contract to develop the bot further as a team (financing and mentoring)
+[3] first, second and third place winners get additional stars in their roles in Datorium Discord server
+
+support
+[1] ask in Datorium Discord server #contests channel
